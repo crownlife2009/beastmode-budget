@@ -1,0 +1,10 @@
+{
+  "name": "beastmode-budget-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serverless functions (Vercel /api routes) that back Beastmode Budget's Stripe subscriptions.",
+  "dependencies": {
+    "stripe": "^16.9.0",
+    "@supabase/supabase-js": "^2.45.4"
+  }
+}
